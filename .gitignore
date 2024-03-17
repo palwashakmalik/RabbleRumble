@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class 
+*.sqlite3
+*.pyc
+*.pyo
+*.env 
+ 
+/media/ 
+*.log 
+.env 
+.DS_Store
+ 
+.idea/
+.vscode/ 
+**/migrations/
